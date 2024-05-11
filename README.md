@@ -15,7 +15,7 @@
  limitations under the License.
 -->
 Maven Enforcer Plugin - The Loving Iron Fist of Maven™
-=============================================================
+======================================================
 
 [![ASF Jira](https://img.shields.io/endpoint?url=https%3A%2F%2Fmaven.apache.org%2Fbadges%2Fasf_jira-MENFORCER.json)][jira]
 [![Apache License, Version 2.0, January 2004](https://img.shields.io/github/license/apache/maven-enforcer.svg?label=License)][license]
